@@ -1,3 +1,3 @@
-/Users/manuelfissore/Documents/Politecnico/Magistrale/I/s2/SDP/labs/lab2/es1/cmake-build-debug/CMakeFiles/es1.dir
-/Users/manuelfissore/Documents/Politecnico/Magistrale/I/s2/SDP/labs/lab2/es1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/manuelfissore/Documents/Politecnico/Magistrale/I/s2/SDP/labs/lab2/es1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/manuel/Documents/Politecnico/SDP/SDP_labs/lab2/es1/cmake-build-debug/CMakeFiles/es1.dir
+C:/Users/manuel/Documents/Politecnico/SDP/SDP_labs/lab2/es1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/manuel/Documents/Politecnico/SDP/SDP_labs/lab2/es1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
