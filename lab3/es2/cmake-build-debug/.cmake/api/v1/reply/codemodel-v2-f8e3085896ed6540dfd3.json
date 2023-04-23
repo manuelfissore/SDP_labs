@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.25"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "es2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-es2-Debug-8f2c302efc4a88341290.json",
+					"jsonFile" : "target-es2-Debug-28a7802aeb8bbee5cf24.json",
 					"name" : "es2",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/manuel/Documents/Politecnico/SDP/SDP_labs/lab3/es2/cmake-build-debug",
-		"source" : "C:/Users/manuel/Documents/Politecnico/SDP/SDP_labs/lab3/es2"
+		"build" : "/Users/manuelfissore/Documents/Politecnico/Magistrale/I/s2/SDP/SDP_labs/lab3/es2/cmake-build-debug",
+		"source" : "/Users/manuelfissore/Documents/Politecnico/Magistrale/I/s2/SDP/SDP_labs/lab3/es2"
 	},
 	"version" : 
 	{
